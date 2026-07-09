@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  "d23f923e-dce1-45f7-bec2-6e28d3f16d17",
         "mapName":  "de_ancient",
@@ -19,7 +19,7 @@
                                 "z":  163.19214
                             },
         "description":  "T",
-        "weight":  0.22
+        "weight":  0.14
     },
     {
         "id":  "423ebd44-2d06-4f8d-8e0a-5f5db876fe6e",
@@ -41,7 +41,7 @@
                                 "z":  162.03128
                             },
         "description":  "T",
-        "weight":  0.27
+        "weight":  0.151
     },
     {
         "id":  "4e3397b8-2f82-4359-b845-98d0ddab0936",
@@ -63,7 +63,7 @@
                                 "z":  162.03128
                             },
         "description":  "T",
-        "weight":  0.27
+        "weight":  0.168
     },
     {
         "id":  "f1502327-6606-4b23-a9f6-4399671c5bd4",
@@ -85,7 +85,7 @@
                                 "z":  162.10399
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.174
     },
     {
         "id":  "049501d4-f990-409e-be4c-c588c043eca4",
@@ -107,7 +107,7 @@
                                 "z":  71.35576
                             },
         "description":  null,
-        "weight":  0.28
+        "weight":  0.159
     },
     {
         "id":  "b9674811-f155-4ce5-863e-127cb5b07295",
@@ -129,7 +129,7 @@
                                 "z":  155.03125
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.191
     },
     {
         "id":  "96096105-1e2b-4a1a-a422-02c1c59665bb",
@@ -151,7 +151,7 @@
                                 "z":  148.956
                             },
         "description":  null,
-        "weight":  0.29
+        "weight":  0.145
     },
     {
         "id":  "2569a5a1-ce39-460e-a4db-a124284b3e15",
@@ -173,7 +173,7 @@
                                 "z":  66.47303
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.119
     },
     {
         "id":  "a3260acd-c950-4b58-9a69-7062b9996ba7",
@@ -195,7 +195,7 @@
                                 "z":  89.71215
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.187
     },
     {
         "id":  "e5a275db-257a-4a06-9eed-b727267bc4d3",
@@ -217,7 +217,7 @@
                                 "z":  53.83655
                             },
         "description":  null,
-        "weight":  0.19
+        "weight":  0.181
     },
     {
         "id":  "1761fed1-7d4f-4157-b629-5abc9c48369d",
@@ -239,7 +239,7 @@
                                 "z":  100.98808
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.142
     },
     {
         "id":  "f6684626-1eb6-46fb-a280-2b728a27389e",
@@ -261,7 +261,7 @@
                                 "z":  122.99867
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.185
     },
     {
         "id":  "67e2e9a8-dd4a-4043-8dd8-d59ae555b64f",
@@ -283,7 +283,7 @@
                                 "z":  123.82745
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.179
     },
     {
         "id":  "57987fb5-a26d-4bd5-b72d-548c26a801f4",
@@ -305,7 +305,7 @@
                                 "z":  124.840614
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.131
     },
     {
         "id":  "6e6f0ac5-1de2-4998-9c49-22c358d04252",
@@ -327,7 +327,7 @@
                                 "z":  127.42192
                             },
         "description":  null,
-        "weight":  0.12
+        "weight":  0.111
     },
     {
         "id":  "92cac2ec-538b-43ad-beba-6d3c6b056158",
@@ -349,7 +349,7 @@
                                 "z":  154.65475
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.185
     },
     {
         "id":  "5ca3f686-8379-45f6-b2c8-c8a15e244f0d",
@@ -371,7 +371,7 @@
                                 "z":  154.65475
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.11
     },
     {
         "id":  "63340d4b-7404-45fe-8259-1913bde24d4c",
@@ -393,7 +393,7 @@
                                 "z":  61.78761
                             },
         "description":  null,
-        "weight":  0.12
+        "weight":  0.184
     },
     {
         "id":  "913bc888-2c9c-4485-8752-2a0fff45a053",
@@ -415,7 +415,7 @@
                                 "z":  76.25973
                             },
         "description":  null,
-        "weight":  0.14
+        "weight":  0.153
     },
     {
         "id":  "b6832c7b-2a9d-44c5-9cf1-b75cbb00506e",
@@ -437,7 +437,7 @@
                                 "z":  89.992226
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.173
     },
     {
         "id":  "a3f047c6-d97f-443e-8459-0e5be4d0861f",
@@ -459,7 +459,7 @@
                                 "z":  75.83987
                             },
         "description":  null,
-        "weight":  0.13
+        "weight":  0.11
     },
     {
         "id":  "639f60e3-5297-4db5-82ca-0edef7c115b9",
@@ -481,7 +481,7 @@
                                 "z":  35.492325
                             },
         "description":  "CT",
-        "weight":  0.26
+        "weight":  0.186
     },
     {
         "id":  "6eec24e6-afdb-46a7-95a5-b78e0cc5fc0e",
@@ -503,7 +503,7 @@
                                 "z":  35.976566
                             },
         "description":  "CT",
-        "weight":  0.27
+        "weight":  0.167
     },
     {
         "id":  "79dceb2b-680a-461e-ace4-fc078021b7f7",
@@ -525,7 +525,7 @@
                                 "z":  35.092377
                             },
         "description":  "CT",
-        "weight":  0.23
+        "weight":  0.103
     },
     {
         "id":  "4ea869d7-6140-4a21-b0f9-85bfa3cb8b77",
@@ -547,7 +547,7 @@
                                 "z":  35.76473
                             },
         "description":  "CT",
-        "weight":  0.13
+        "weight":  0.171
     },
     {
         "id":  "a491ff35-3475-4d0d-9a03-c9f8b3847049",
@@ -569,7 +569,7 @@
                                 "z":  35.91728
                             },
         "description":  "CT",
-        "weight":  0.26
+        "weight":  0.121
     },
     {
         "id":  "18952f3b-0eab-4d64-b24a-2c1015e9f5e0",
@@ -591,7 +591,7 @@
                                 "z":  74.80434
                             },
         "description":  null,
-        "weight":  0.19
+        "weight":  0.167
     },
     {
         "id":  "1c9f5b18-aebb-4dc3-9a3e-91e965737ebe",
@@ -613,7 +613,7 @@
                                 "z":  54.04354
                             },
         "description":  null,
-        "weight":  0.15
+        "weight":  0.153
     },
     {
         "id":  "ccaac5ff-f39f-4ba9-86e2-da12f61ae8af",
@@ -635,7 +635,7 @@
                                 "z":  54.03032
                             },
         "description":  null,
-        "weight":  0.13
+        "weight":  0.157
     },
     {
         "id":  "b129b14a-13ec-4280-8fe0-fd86bd2cd4dd",
@@ -657,7 +657,7 @@
                                 "z":  63.73996
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.198
     },
     {
         "id":  "cda1c553-4e24-470f-8650-8419f737834d",
@@ -679,7 +679,7 @@
                                 "z":  126.19371
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.19
     },
     {
         "id":  "ca8a7499-7e2b-4bb5-bf3b-336f5abb53fd",
@@ -701,7 +701,7 @@
                                 "z":  122.68962
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.131
     },
     {
         "id":  "d23f923e-dce1-45f7-bec2-6e28d3f16d17",
@@ -723,7 +723,7 @@
                                 "z":  163.19214
                             },
         "description":  "T",
-        "weight":  0.21
+        "weight":  0.146
     },
     {
         "id":  "423ebd44-2d06-4f8d-8e0a-5f5db876fe6e",
@@ -745,7 +745,7 @@
                                 "z":  162.03128
                             },
         "description":  "T",
-        "weight":  0.27
+        "weight":  0.15
     },
     {
         "id":  "4e3397b8-2f82-4359-b845-98d0ddab0936",
@@ -767,7 +767,7 @@
                                 "z":  162.03128
                             },
         "description":  "T",
-        "weight":  0.29
+        "weight":  0.184
     },
     {
         "id":  "f1502327-6606-4b23-a9f6-4399671c5bd4",
@@ -789,7 +789,7 @@
                                 "z":  162.10399
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.17
     },
     {
         "id":  "049501d4-f990-409e-be4c-c588c043eca4",
@@ -811,7 +811,7 @@
                                 "z":  71.35576
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.147
     },
     {
         "id":  "b9674811-f155-4ce5-863e-127cb5b07295",
@@ -833,7 +833,7 @@
                                 "z":  155.03125
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.198
     },
     {
         "id":  "96096105-1e2b-4a1a-a422-02c1c59665bb",
@@ -855,7 +855,7 @@
                                 "z":  148.956
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.128
     },
     {
         "id":  "2569a5a1-ce39-460e-a4db-a124284b3e15",
@@ -877,7 +877,7 @@
                                 "z":  66.47303
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.163
     },
     {
         "id":  "a3260acd-c950-4b58-9a69-7062b9996ba7",
@@ -899,7 +899,7 @@
                                 "z":  89.71215
                             },
         "description":  null,
-        "weight":  0.13
+        "weight":  0.196
     },
     {
         "id":  "e5a275db-257a-4a06-9eed-b727267bc4d3",
@@ -921,7 +921,7 @@
                                 "z":  53.83655
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.155
     },
     {
         "id":  "1761fed1-7d4f-4157-b629-5abc9c48369d",
@@ -943,7 +943,7 @@
                                 "z":  100.98808
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.192
     },
     {
         "id":  "f6684626-1eb6-46fb-a280-2b728a27389e",
@@ -965,7 +965,7 @@
                                 "z":  122.99867
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.106
     },
     {
         "id":  "67e2e9a8-dd4a-4043-8dd8-d59ae555b64f",
@@ -987,7 +987,7 @@
                                 "z":  123.82745
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.124
     },
     {
         "id":  "57987fb5-a26d-4bd5-b72d-548c26a801f4",
@@ -1009,7 +1009,7 @@
                                 "z":  124.840614
                             },
         "description":  null,
-        "weight":  0.28
+        "weight":  0.166
     },
     {
         "id":  "6e6f0ac5-1de2-4998-9c49-22c358d04252",
@@ -1031,7 +1031,7 @@
                                 "z":  127.42192
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.112
     },
     {
         "id":  "92cac2ec-538b-43ad-beba-6d3c6b056158",
@@ -1053,7 +1053,7 @@
                                 "z":  154.65475
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.167
     },
     {
         "id":  "5ca3f686-8379-45f6-b2c8-c8a15e244f0d",
@@ -1075,7 +1075,7 @@
                                 "z":  154.65475
                             },
         "description":  null,
-        "weight":  0.14
+        "weight":  0.113
     },
     {
         "id":  "63340d4b-7404-45fe-8259-1913bde24d4c",
@@ -1097,7 +1097,7 @@
                                 "z":  61.78761
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.111
     },
     {
         "id":  "913bc888-2c9c-4485-8752-2a0fff45a053",
@@ -1119,7 +1119,7 @@
                                 "z":  76.25973
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.148
     },
     {
         "id":  "b6832c7b-2a9d-44c5-9cf1-b75cbb00506e",
@@ -1141,119 +1141,119 @@
                                 "z":  89.992226
                             },
         "description":  null,
+        "weight":  0.164
+    },
+    {
+        "id":  "a3f047c6-d97f-443e-8459-0e5be4d0861f",
+        "mapName":  "de_ancient",
+        "grenadeType":  "smoke",
+        "projectilePosition":  {
+                                   "x":  -1557.0999,
+                                   "y":  1131.6511,
+                                   "z":  165.47252
+                               },
+        "projectileVelocity":  {
+                                   "x":  -341.9841,
+                                   "y":  -569.9199,
+                                   "z":  117.7419
+                               },
+        "landingPosition":  {
+                                "x":  -2108.6296,
+                                "y":  204.17316,
+                                "z":  75.83987
+                            },
+        "description":  null,
+        "weight":  0.179
+    },
+    {
+        "id":  "639f60e3-5297-4db5-82ca-0edef7c115b9",
+        "mapName":  "de_ancient",
+        "grenadeType":  "smoke",
+        "projectilePosition":  {
+                                   "x":  -212.43881,
+                                   "y":  1634.7878,
+                                   "z":  123.94421
+                               },
+        "projectileVelocity":  {
+                                   "x":  -216.70271,
+                                   "y":  -648.444,
+                                   "z":  693.433
+                               },
+        "landingPosition":  {
+                                "x":  -1142.7343,
+                                "y":  -906.9434,
+                                "z":  35.492325
+                            },
+        "description":  "CT",
+        "weight":  0.192
+    },
+    {
+        "id":  "6eec24e6-afdb-46a7-95a5-b78e0cc5fc0e",
+        "mapName":  "de_ancient",
+        "grenadeType":  "smoke",
+        "projectilePosition":  {
+                                   "x":  -271.53305,
+                                   "y":  1676.2284,
+                                   "z":  124.3149
+                               },
+        "projectileVelocity":  {
+                                   "x":  -194.7555,
+                                   "y":  -649.81805,
+                                   "z":  688.6318
+                               },
+        "landingPosition":  {
+                                "x":  -1130.0851,
+                                "y":  -928.429,
+                                "z":  35.976566
+                            },
+        "description":  "CT",
+        "weight":  0.116
+    },
+    {
+        "id":  "79dceb2b-680a-461e-ace4-fc078021b7f7",
+        "mapName":  "de_ancient",
+        "grenadeType":  "smoke",
+        "projectilePosition":  {
+                                   "x":  -368.40802,
+                                   "y":  1666.7513,
+                                   "z":  126.09314
+                               },
+        "projectileVelocity":  {
+                                   "x":  -177.48172,
+                                   "y":  -663.12866,
+                                   "z":  688.9154
+                               },
+        "landingPosition":  {
+                                "x":  -1164.7412,
+                                "y":  -968.63727,
+                                "z":  35.092377
+                            },
+        "description":  "CT",
+        "weight":  0.162
+    },
+    {
+        "id":  "4ea869d7-6140-4a21-b0f9-85bfa3cb8b77",
+        "mapName":  "de_ancient",
+        "grenadeType":  "smoke",
+        "projectilePosition":  {
+                                   "x":  -460.95483,
+                                   "y":  1672.8335,
+                                   "z":  127.76996
+                               },
+        "projectileVelocity":  {
+                                   "x":  -155.45107,
+                                   "y":  -661.39075,
+                                   "z":  690.754
+                               },
+        "landingPosition":  {
+                                "x":  -1134.4415,
+                                "y":  -904.3221,
+                                "z":  35.76473
+                            },
+        "description":  "CT",
         "weight":  0.16
     },
     {
-        "id":  "a3f047c6-d97f-443e-8459-0e5be4d0861f",
-        "mapName":  "de_ancient",
-        "grenadeType":  "smoke",
-        "projectilePosition":  {
-                                   "x":  -1557.0999,
-                                   "y":  1131.6511,
-                                   "z":  165.47252
-                               },
-        "projectileVelocity":  {
-                                   "x":  -341.9841,
-                                   "y":  -569.9199,
-                                   "z":  117.7419
-                               },
-        "landingPosition":  {
-                                "x":  -2108.6296,
-                                "y":  204.17316,
-                                "z":  75.83987
-                            },
-        "description":  null,
-        "weight":  0.25
-    },
-    {
-        "id":  "639f60e3-5297-4db5-82ca-0edef7c115b9",
-        "mapName":  "de_ancient",
-        "grenadeType":  "smoke",
-        "projectilePosition":  {
-                                   "x":  -212.43881,
-                                   "y":  1634.7878,
-                                   "z":  123.94421
-                               },
-        "projectileVelocity":  {
-                                   "x":  -216.70271,
-                                   "y":  -648.444,
-                                   "z":  693.433
-                               },
-        "landingPosition":  {
-                                "x":  -1142.7343,
-                                "y":  -906.9434,
-                                "z":  35.492325
-                            },
-        "description":  "CT",
-        "weight":  0.28
-    },
-    {
-        "id":  "6eec24e6-afdb-46a7-95a5-b78e0cc5fc0e",
-        "mapName":  "de_ancient",
-        "grenadeType":  "smoke",
-        "projectilePosition":  {
-                                   "x":  -271.53305,
-                                   "y":  1676.2284,
-                                   "z":  124.3149
-                               },
-        "projectileVelocity":  {
-                                   "x":  -194.7555,
-                                   "y":  -649.81805,
-                                   "z":  688.6318
-                               },
-        "landingPosition":  {
-                                "x":  -1130.0851,
-                                "y":  -928.429,
-                                "z":  35.976566
-                            },
-        "description":  "CT",
-        "weight":  0.15
-    },
-    {
-        "id":  "79dceb2b-680a-461e-ace4-fc078021b7f7",
-        "mapName":  "de_ancient",
-        "grenadeType":  "smoke",
-        "projectilePosition":  {
-                                   "x":  -368.40802,
-                                   "y":  1666.7513,
-                                   "z":  126.09314
-                               },
-        "projectileVelocity":  {
-                                   "x":  -177.48172,
-                                   "y":  -663.12866,
-                                   "z":  688.9154
-                               },
-        "landingPosition":  {
-                                "x":  -1164.7412,
-                                "y":  -968.63727,
-                                "z":  35.092377
-                            },
-        "description":  "CT",
-        "weight":  0.27
-    },
-    {
-        "id":  "4ea869d7-6140-4a21-b0f9-85bfa3cb8b77",
-        "mapName":  "de_ancient",
-        "grenadeType":  "smoke",
-        "projectilePosition":  {
-                                   "x":  -460.95483,
-                                   "y":  1672.8335,
-                                   "z":  127.76996
-                               },
-        "projectileVelocity":  {
-                                   "x":  -155.45107,
-                                   "y":  -661.39075,
-                                   "z":  690.754
-                               },
-        "landingPosition":  {
-                                "x":  -1134.4415,
-                                "y":  -904.3221,
-                                "z":  35.76473
-                            },
-        "description":  "CT",
-        "weight":  0.3
-    },
-    {
         "id":  "a491ff35-3475-4d0d-9a03-c9f8b3847049",
         "mapName":  "de_ancient",
         "grenadeType":  "smoke",
@@ -1273,7 +1273,7 @@
                                 "z":  35.91728
                             },
         "description":  "CT",
-        "weight":  0.13
+        "weight":  0.131
     },
     {
         "id":  "18952f3b-0eab-4d64-b24a-2c1015e9f5e0",
@@ -1295,7 +1295,7 @@
                                 "z":  74.80434
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.115
     },
     {
         "id":  "1c9f5b18-aebb-4dc3-9a3e-91e965737ebe",
@@ -1317,7 +1317,7 @@
                                 "z":  54.04354
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.185
     },
     {
         "id":  "ccaac5ff-f39f-4ba9-86e2-da12f61ae8af",
@@ -1339,7 +1339,7 @@
                                 "z":  54.03032
                             },
         "description":  null,
-        "weight":  0.28
+        "weight":  0.189
     },
     {
         "id":  "b129b14a-13ec-4280-8fe0-fd86bd2cd4dd",
@@ -1361,7 +1361,7 @@
                                 "z":  63.73996
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.161
     },
     {
         "id":  "cda1c553-4e24-470f-8650-8419f737834d",
@@ -1383,7 +1383,7 @@
                                 "z":  126.19371
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.189
     },
     {
         "id":  "ca8a7499-7e2b-4bb5-bf3b-336f5abb53fd",
@@ -1405,7 +1405,7 @@
                                 "z":  122.68962
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.128
     },
     {
         "id":  "75d4cb49-6785-4dcd-98e7-27e866194476",
@@ -1427,7 +1427,7 @@
                                 "z":  106.03125
                             },
         "description":  null,
-        "weight":  0.22
+        "weight":  0.158
     },
     {
         "id":  "f067c635-75f9-425b-b4d5-4419eadc4550",
@@ -1449,7 +1449,7 @@
                                 "z":  162.13066
                             },
         "description":  null,
-        "weight":  0.16
+        "weight":  0.148
     },
     {
         "id":  "19ab92ec-042a-4df8-a913-ef17eac70108",
@@ -1471,7 +1471,7 @@
                                 "z":  68.23026
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.106
     },
     {
         "id":  "5e526a59-c176-4c27-9496-5dc9d26a7e43",
@@ -1493,7 +1493,7 @@
                                 "z":  99.66095
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.146
     },
     {
         "id":  "dbe40b28-e4c3-4af3-a97d-eaea9c6772b6",
@@ -1515,7 +1515,7 @@
                                 "z":  67.59663
                             },
         "description":  null,
-        "weight":  0.19
+        "weight":  0.119
     },
     {
         "id":  "5d691858-e82e-4df8-bde2-4c2cb20d3616",
@@ -1537,7 +1537,7 @@
                                 "z":  155.03122
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.149
     },
     {
         "id":  "1f5e0c6e-b533-4029-b5e7-eb04ab87e978",
@@ -1559,7 +1559,7 @@
                                 "z":  118.42158
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.189
     },
     {
         "id":  "dd5ffcb6-7c74-41ae-ac6b-a7114e5a5238",
@@ -1581,7 +1581,7 @@
                                 "z":  122.22645
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.184
     },
     {
         "id":  "3d6cc712-4055-4946-bfad-3ad108e5f17e",
@@ -1603,7 +1603,7 @@
                                 "z":  124.522255
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.16
     },
     {
         "id":  "d609b6d7-8dac-4712-828e-fea1e2d23e8c",
@@ -1625,7 +1625,7 @@
                                 "z":  124.404564
                             },
         "description":  null,
-        "weight":  0.21
+        "weight":  0.156
     },
     {
         "id":  "539ebae1-4c6c-4974-aad8-16e0aabdcf1b",
@@ -1647,7 +1647,7 @@
                                 "z":  123.65772
                             },
         "description":  null,
-        "weight":  0.21
+        "weight":  0.143
     },
     {
         "id":  "0d77a0d3-c764-4049-9b80-9b3816bd65ed",
@@ -1669,7 +1669,7 @@
                                 "z":  155.80548
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.125
     },
     {
         "id":  "4a94cc61-20b6-4d21-ada2-6dcbe1fa60d4",
@@ -1691,7 +1691,7 @@
                                 "z":  155.03125
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.141
     },
     {
         "id":  "661535eb-5607-4bfb-86ed-b90fd22457aa",
@@ -1713,7 +1713,7 @@
                                 "z":  155.03125
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.115
     },
     {
         "id":  "0ce4aea1-ce0f-4e1a-a0b7-6bb9bd26f5b6",
@@ -1735,7 +1735,7 @@
                                 "z":  69.75747
                             },
         "description":  null,
-        "weight":  0.22
+        "weight":  0.13
     },
     {
         "id":  "b56480a7-01d9-475c-8976-612b9b6b30d7",
@@ -1757,7 +1757,7 @@
                                 "z":  95.17505
                             },
         "description":  null,
-        "weight":  0.15
+        "weight":  0.102
     },
     {
         "id":  "eec677ff-dc8d-49e7-ba4c-0d4a36fe5979",
@@ -1779,7 +1779,7 @@
                                 "z":  54.302765
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.132
     },
     {
         "id":  "56a3d1e3-0613-4f4c-aa86-54165d16dc53",
@@ -1801,7 +1801,7 @@
                                 "z":  68.1068
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.184
     },
     {
         "id":  "dc8489d9-1070-4abc-a15b-8fc55361aac9",
@@ -1823,7 +1823,7 @@
                                 "z":  88.14989
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.161
     },
     {
         "id":  "daf66778-e0cf-42c3-b361-d29dd6071d10",
@@ -1845,7 +1845,7 @@
                                 "z":  89.88339
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.147
     },
     {
         "id":  "3ec6bad4-77ca-46eb-b0ad-a817ac6045c1",
@@ -1867,7 +1867,7 @@
                                 "z":  58.03125
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.107
     },
     {
         "id":  "b607bfcd-0f51-4909-b8ed-bb974349d6e1",
@@ -1889,6 +1889,6 @@
                                 "z":  56.03125
                             },
         "description":  null,
-        "weight":  0.21
+        "weight":  0.198
     }
 ]

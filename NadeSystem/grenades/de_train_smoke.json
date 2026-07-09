@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  "9c0565d6-c0c2-4eff-bae3-e6f769fe0e30",
         "mapName":  "de_train",
@@ -19,7 +19,7 @@
                                 "z":  -216.96062
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.173
     },
     {
         "id":  "de412289-a19f-472b-ade7-ffb377bd1b01",
@@ -40,8 +40,8 @@
                                 "y":  110.03114,
                                 "z":  -209.96875
                             },
-        "description":  "Ã©Ââ„¢Ã¦Â­Â¥Ã¤Â¸â‚¬Ã¦Â­Â¥Ã¨Â·Â³Ã¦Å â€¢",
-        "weight":  0.13
+        "description":  "ÃƒÂ©Ã‚ÂÃ¢â€žÂ¢ÃƒÂ¦Ã‚Â­Ã‚Â¥ÃƒÂ¤Ã‚Â¸Ã¢â€šÂ¬ÃƒÂ¦Ã‚Â­Ã‚Â¥ÃƒÂ¨Ã‚Â·Ã‚Â³ÃƒÂ¦Ã…Â Ã¢â‚¬Â¢",
+        "weight":  0.124
     },
     {
         "id":  "a98c9c71-a95e-40aa-a547-e65c1d482eba",
@@ -63,7 +63,7 @@
                                 "z":  -164.96875
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.141
     },
     {
         "id":  "0b5ede12-b3db-4eba-9aee-de4a77b8dca1",
@@ -85,7 +85,7 @@
                                 "z":  -212.96875
                             },
         "description":  null,
-        "weight":  0.12
+        "weight":  0.148
     },
     {
         "id":  "5ed00b46-d1c3-411a-a5af-8c8041f94070",
@@ -107,7 +107,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.178
     },
     {
         "id":  "ac69d52d-52c6-4073-a9de-9478e4c9815e",
@@ -129,7 +129,7 @@
                                 "z":  -213.96875
                             },
         "description":  "FURIA",
-        "weight":  0.23
+        "weight":  0.12
     },
     {
         "id":  "129f44f6-f383-46a3-9f7f-b001b8de9d55",
@@ -151,7 +151,7 @@
                                 "z":  -318.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.149
     },
     {
         "id":  "40145b9c-cad8-4822-9a69-435538c13319",
@@ -173,7 +173,7 @@
                                 "z":  -209.96875
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.167
     },
     {
         "id":  "b00f62a6-5542-4f0b-b07a-59d0e7766358",
@@ -195,7 +195,7 @@
                                 "z":  -211.9664
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.19
     },
     {
         "id":  "306ccbb9-e613-4219-bbc1-49dc9add3fad",
@@ -217,7 +217,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.16
+        "weight":  0.171
     },
     {
         "id":  "eb5fa480-bca0-4882-98a9-23c94fb7ac08",
@@ -238,8 +238,8 @@
                                 "y":  497.7007,
                                 "z":  -211.96875
                             },
-        "description":  "MÃ¥Â·Â¦Ã¨Â¾Â¹Ã¥â€ â€¦Ã¤Â¾Â§Ã©ËœÂ´Ã¥Â½Â±Ã¤Â¸Å Ã¦â€“Â¹",
-        "weight":  0.22
+        "description":  "MÃƒÂ¥Ã‚Â·Ã‚Â¦ÃƒÂ¨Ã‚Â¾Ã‚Â¹ÃƒÂ¥Ã¢â‚¬Â Ã¢â‚¬Â¦ÃƒÂ¤Ã‚Â¾Ã‚Â§ÃƒÂ©Ã‹Å“Ã‚Â´ÃƒÂ¥Ã‚Â½Ã‚Â±ÃƒÂ¤Ã‚Â¸Ã…Â ÃƒÂ¦Ã¢â‚¬â€œÃ‚Â¹",
+        "weight":  0.198
     },
     {
         "id":  "edb1657c-cfde-4c6e-8715-ba4568efe226",
@@ -261,7 +261,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.133
     },
     {
         "id":  "18f1a415-58f7-4567-8a38-477e88390ad2",
@@ -283,7 +283,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.28
+        "weight":  0.179
     },
     {
         "id":  "9fd07104-4e47-4c90-8991-b4afe5ad311a",
@@ -305,7 +305,7 @@
                                 "z":  -209.96875
                             },
         "description":  "decoy",
-        "weight":  0.23
+        "weight":  0.135
     },
     {
         "id":  "f4b9f2d9-db10-43e6-9721-5199bc344980",
@@ -327,7 +327,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.29
+        "weight":  0.114
     },
     {
         "id":  "c733c79a-fa69-4407-b167-d2bcf9942f65",
@@ -349,7 +349,7 @@
                                 "z":  18.03125
                             },
         "description":  null,
-        "weight":  0.28
+        "weight":  0.2
     },
     {
         "id":  "affdc11c-d3ee-4493-ba49-94cfa0f584e9",
@@ -371,7 +371,7 @@
                                 "z":  -209.9681
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.161
     },
     {
         "id":  "363f967f-3c5d-487c-8b4b-ba6d0509be58",
@@ -393,7 +393,7 @@
                                 "z":  -215.35097
                             },
         "description":  null,
-        "weight":  0.14
+        "weight":  0.101
     },
     {
         "id":  "c8566797-d5ed-4888-bd04-18b14ac92dde",
@@ -415,7 +415,7 @@
                                 "z":  -212.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.115
     },
     {
         "id":  "bd029331-51dd-41bc-bdd5-171995c14da0",
@@ -437,7 +437,7 @@
                                 "z":  -217.00491
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.149
     },
     {
         "id":  "4ccf21bd-cb39-4221-b4a4-68f249b7e359",
@@ -459,7 +459,7 @@
                                 "z":  -209.96875
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.101
     },
     {
         "id":  "c0afad85-f889-45c6-9493-40e9c20d2d35",
@@ -481,7 +481,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.103
     },
     {
         "id":  "97e8a800-694d-437c-a5ff-7430d6ce854c",
@@ -503,7 +503,7 @@
                                 "z":  -209.96875
                             },
         "description":  null,
-        "weight":  0.21
+        "weight":  0.1
     },
     {
         "id":  "8512c9b0-fde9-4eea-9ec4-f4212397e5a0",
@@ -525,7 +525,7 @@
                                 "z":  -216.66559
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.193
     },
     {
         "id":  "d1aa3c66-3914-4a40-8d89-28bd717312f5",
@@ -547,7 +547,7 @@
                                 "z":  -209.96875
                             },
         "description":  null,
-        "weight":  0.15
+        "weight":  0.175
     },
     {
         "id":  "21fb3502-523f-4ac8-a55c-12f5edf743ec",
@@ -569,7 +569,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.192
     },
     {
         "id":  "ae6a0a06-368d-4c24-9a8f-145bec133ea7",
@@ -591,7 +591,7 @@
                                 "z":  -212.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.12
     },
     {
         "id":  "aa2ff182-a338-4b29-acd5-d5b66dc980f7",
@@ -613,7 +613,7 @@
                                 "z":  -211.97202
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.129
     },
     {
         "id":  "eebfb22c-51d7-4c58-b240-50bd93eceaa3",
@@ -635,7 +635,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.19
+        "weight":  0.129
     },
     {
         "id":  "b3014791-312c-488c-853c-f337cf295766",
@@ -657,7 +657,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.123
     },
     {
         "id":  "f555e493-6086-4b79-8ecc-9f285ce2be3b",
@@ -679,7 +679,7 @@
                                 "z":  -295.01312
                             },
         "description":  null,
-        "weight":  0.16
+        "weight":  0.171
     },
     {
         "id":  "d206ed1a-c9da-4ebb-be66-e7991d97adfd",
@@ -701,7 +701,7 @@
                                 "z":  -316.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.148
     },
     {
         "id":  "417819b1-edef-400c-91cb-edb90e9d6db7",
@@ -723,7 +723,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.22
+        "weight":  0.191
     },
     {
         "id":  "3fecc53c-83ee-4976-924a-df9e440fd831",
@@ -745,7 +745,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.14
+        "weight":  0.118
     },
     {
         "id":  "1a1b7034-b186-44ce-a3ab-ac2a28664c63",
@@ -767,7 +767,7 @@
                                 "z":  -316.96875
                             },
         "description":  null,
-        "weight":  0.16
+        "weight":  0.184
     },
     {
         "id":  "05715b78-e4da-49e5-88ed-9376d11315c0",
@@ -789,7 +789,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.194
     },
     {
         "id":  "1f828f7a-8311-49a3-a6d8-82b1ce01a76d",
@@ -811,7 +811,7 @@
                                 "z":  -158.84927
                             },
         "description":  null,
-        "weight":  0.19
+        "weight":  0.112
     },
     {
         "id":  "46147e2b-702e-467b-b048-25f07c105ad6",
@@ -833,7 +833,7 @@
                                 "z":  -170.76268
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.134
     },
     {
         "id":  "4bbf0d4c-e2d7-4a2f-af9c-fecbc895cd66",
@@ -855,7 +855,7 @@
                                 "z":  -319.13388
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.192
     },
     {
         "id":  "703e0ff9-8d2c-43b7-a83a-bf599e15e4f9",
@@ -877,7 +877,7 @@
                                 "z":  -213.91948
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.191
     },
     {
         "id":  "75501fb7-dbe5-47e8-af86-f9e4486eef81",
@@ -899,7 +899,7 @@
                                 "z":  -213.96875
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.193
     },
     {
         "id":  "482d8170-91fe-40e0-854e-eb205dfbda8a",
@@ -921,7 +921,7 @@
                                 "z":  -213.96875
                             },
         "description":  null,
-        "weight":  0.13
+        "weight":  0.161
     },
     {
         "id":  "8f431e1e-4b02-4e8b-92b0-48501e2c438a",
@@ -943,7 +943,7 @@
                                 "z":  -318.32828
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.195
     },
     {
         "id":  "3319934d-fd05-4be4-b622-cf4fa9e59a4c",
@@ -965,7 +965,7 @@
                                 "z":  -316.96875
                             },
         "description":  null,
-        "weight":  0.25
+        "weight":  0.198
     },
     {
         "id":  "c141220d-5fd2-428f-88e4-f2b4c825c338",
@@ -987,7 +987,7 @@
                                 "z":  -316.96875
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.151
     },
     {
         "id":  "47898132-7706-484d-9f06-3901bcb593d8",
@@ -1009,7 +1009,7 @@
                                 "z":  -213.94833
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.127
     },
     {
         "id":  "2ed80f66-23fe-4115-a2a7-968bf568da89",
@@ -1031,7 +1031,7 @@
                                 "z":  -213.94833
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.141
     },
     {
         "id":  "7393ee60-e232-40e6-a0c7-88a27dc8462a",
@@ -1053,7 +1053,7 @@
                                 "z":  -312.83563
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.104
     },
     {
         "id":  "a1269977-7b0e-4143-9e20-c8ce4adee429",
@@ -1075,7 +1075,7 @@
                                 "z":  -319.13388
                             },
         "description":  null,
-        "weight":  0.19
+        "weight":  0.197
     },
     {
         "id":  "2e80fd38-dd5f-4f42-8fe4-5372810613fe",
@@ -1097,7 +1097,7 @@
                                 "z":  -213.96875
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.19
     },
     {
         "id":  "64c2706a-9b6a-476d-96d7-8589bf98a3b0",
@@ -1119,7 +1119,7 @@
                                 "z":  -213.96875
                             },
         "description":  null,
-        "weight":  0.24
+        "weight":  0.17
     },
     {
         "id":  "dcf7ef5c-9e22-423b-b14c-a01058aa9c6f",
@@ -1141,7 +1141,7 @@
                                 "z":  -213.94756
                             },
         "description":  null,
-        "weight":  0.29
+        "weight":  0.141
     },
     {
         "id":  "41f16414-d746-4469-a583-a4ea87617c3b",
@@ -1163,7 +1163,7 @@
                                 "z":  -157.81908
                             },
         "description":  null,
-        "weight":  0.22
+        "weight":  0.108
     },
     {
         "id":  "68623446-3547-4e00-8eb1-776b13afd77b",
@@ -1185,7 +1185,7 @@
                                 "z":  -213.96875
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.1
     },
     {
         "id":  "110c003c-446b-43a0-aad6-c1e14bcb36eb",
@@ -1207,7 +1207,7 @@
                                 "z":  -212.96875
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.137
     },
     {
         "id":  "ad9a7938-3501-4bbe-adee-0f272051f65b",
@@ -1229,7 +1229,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.177
     },
     {
         "id":  "b8590458-67c7-43a4-856c-b0a9ce0ef2a0",
@@ -1251,7 +1251,7 @@
                                 "z":  -316.96875
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.119
     },
     {
         "id":  "8a689438-e791-40d5-9480-639bc42e9d6a",
@@ -1273,7 +1273,7 @@
                                 "z":  -316.96875
                             },
         "description":  null,
-        "weight":  0.11
+        "weight":  0.18
     },
     {
         "id":  "29a2d0c0-8d15-49e8-bb1c-ab1f31e58865",
@@ -1295,7 +1295,7 @@
                                 "z":  -312.80844
                             },
         "description":  null,
-        "weight":  0.27
+        "weight":  0.159
     },
     {
         "id":  "7099f8c0-3638-4426-a82c-2d658cd01228",
@@ -1317,7 +1317,7 @@
                                 "z":  -151.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.182
     },
     {
         "id":  "e39c8c8c-eb7b-4807-a6cd-1d1622966862",
@@ -1339,7 +1339,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.164
     },
     {
         "id":  "ceadf68d-1f79-49bb-97ce-eb6e00013957",
@@ -1361,7 +1361,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.21
+        "weight":  0.157
     },
     {
         "id":  "ec55cccf-232d-4a39-a032-ffbeda4787ed",
@@ -1383,7 +1383,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.18
+        "weight":  0.131
     },
     {
         "id":  "6702b536-3738-4af3-8deb-d93ca6a18406",
@@ -1405,7 +1405,7 @@
                                 "z":  -209.96875
                             },
         "description":  null,
-        "weight":  0.3
+        "weight":  0.129
     },
     {
         "id":  "db565036-9e0a-4cc6-9440-c7904a0ef394",
@@ -1427,7 +1427,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.1
+        "weight":  0.139
     },
     {
         "id":  "615c04f5-ae8d-4d8c-b571-87837de503f7",
@@ -1449,7 +1449,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.141
     },
     {
         "id":  "c7e05380-285a-4dda-9027-f0695ae25f60",
@@ -1471,7 +1471,7 @@
                                 "z":  -207.60484
                             },
         "description":  "decoy",
-        "weight":  0.27
+        "weight":  0.189
     },
     {
         "id":  "cb4d2903-d261-46a9-9de7-6607706be86a",
@@ -1493,7 +1493,7 @@
                                 "z":  -213.93387
                             },
         "description":  "decoy",
-        "weight":  0.23
+        "weight":  0.166
     },
     {
         "id":  "b18dd8ef-e5c4-4130-98ea-ac225bcd1685",
@@ -1515,7 +1515,7 @@
                                 "z":  -212.96875
                             },
         "description":  null,
-        "weight":  0.17
+        "weight":  0.143
     },
     {
         "id":  "74a90b73-94af-43d9-a2c6-6d2b0df9d3f4",
@@ -1537,7 +1537,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.29
+        "weight":  0.194
     },
     {
         "id":  "d1af130d-9498-4c21-853e-76c1f6b79deb",
@@ -1558,8 +1558,8 @@
                                 "y":  408.59564,
                                 "z":  -209.96875
                             },
-        "description":  "Ã¨Â·â€˜Ã¥Å Â¨Ã¨Â·ÂÃ§Â¦Â»Ã¥ÂÂ¯Ã¤Â»Â¥Ã¦Å½Â§Ã¥Ë†Â¶Ã§Æ’Å¸Ã§Å¡â€žÃ¦Â·Â±Ã¥ÂºÂ¦",
-        "weight":  0.19
+        "description":  "ÃƒÂ¨Ã‚Â·Ã¢â‚¬ËœÃƒÂ¥Ã…Â Ã‚Â¨ÃƒÂ¨Ã‚Â·Ã‚ÂÃƒÂ§Ã‚Â¦Ã‚Â»ÃƒÂ¥Ã‚ÂÃ‚Â¯ÃƒÂ¤Ã‚Â»Ã‚Â¥ÃƒÂ¦Ã…Â½Ã‚Â§ÃƒÂ¥Ã‹â€ Ã‚Â¶ÃƒÂ§Ã†â€™Ã…Â¸ÃƒÂ§Ã…Â¡Ã¢â‚¬Å¾ÃƒÂ¦Ã‚Â·Ã‚Â±ÃƒÂ¥Ã‚ÂºÃ‚Â¦",
+        "weight":  0.168
     },
     {
         "id":  "f1253df6-2822-4a72-b802-628c8aa2fc4c",
@@ -1581,7 +1581,7 @@
                                 "z":  -209.96875
                             },
         "description":  "decoy",
-        "weight":  0.18
+        "weight":  0.127
     },
     {
         "id":  "65253f68-691c-42c3-8828-8e6bd01628b1",
@@ -1603,7 +1603,7 @@
                                 "z":  -284.8018
                             },
         "description":  null,
-        "weight":  0.2
+        "weight":  0.168
     },
     {
         "id":  "fd7ce7d7-22ef-44d0-832a-efb420fe06ac",
@@ -1625,7 +1625,7 @@
                                 "z":  -164.96875
                             },
         "description":  null,
-        "weight":  0.29
+        "weight":  0.125
     },
     {
         "id":  "ee535aa7-ce01-440f-8f1b-04de35984b16",
@@ -1646,8 +1646,8 @@
                                 "y":  727.6967,
                                 "z":  -213.96875
                             },
-        "description":  "Ã¥ÂÂ¯Ã©â€¦ÂÃ¥ÂË†Ã©â€”ÂªÃ¥â€¦â€°Ã©â‚¬ÂÃ©ËœÅ¸Ã¥Ââ€¹Ã¦Å Â¢Ã¥Å’ÂªÃ¥ÂÂ£",
-        "weight":  0.1
+        "description":  "ÃƒÂ¥Ã‚ÂÃ‚Â¯ÃƒÂ©Ã¢â‚¬Â¦Ã‚ÂÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ©Ã¢â‚¬â€Ã‚ÂªÃƒÂ¥Ã¢â‚¬Â¦Ã¢â‚¬Â°ÃƒÂ©Ã¢â€šÂ¬Ã‚ÂÃƒÂ©Ã‹Å“Ã…Â¸ÃƒÂ¥Ã‚ÂÃ¢â‚¬Â¹ÃƒÂ¦Ã…Â Ã‚Â¢ÃƒÂ¥Ã…â€™Ã‚ÂªÃƒÂ¥Ã‚ÂÃ‚Â£",
+        "weight":  0.137
     },
     {
         "id":  "caa08aee-0adf-4ae1-93da-09abc2f4be72",
@@ -1669,7 +1669,7 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.23
+        "weight":  0.169
     },
     {
         "id":  "86f44342-458c-43fb-b899-ad9fbd20d785",
@@ -1691,6 +1691,6 @@
                                 "z":  -211.96875
                             },
         "description":  null,
-        "weight":  0.26
+        "weight":  0.11
     }
 ]
